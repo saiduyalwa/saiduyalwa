@@ -37,24 +37,22 @@ Beep is a simple Python GUI application that helps a user limit the number of ch
 
 ## Work Experience 💼
 
-- I have worked for several companies over the last couple of years, starting in 2021 where I took an intern role at Pelican International, a procurement company based in Kampala. I then worked on a number of projects with Inter Miles, Code Sync and also did several projects under the mentorship of [Chris Kateera](https://github.com/chris-kck) built on [Frappe Framework: Open Source Low Code Framework](https://frappeframework.com). More recently, I worked at AfroFleet Technologies (South Africa) and Bitcoin Innovation Hub (Uganda) before resuming my studies here at UTM. For a full breakdown of my work experience, please refer to my [resume](https://drive.google.com/file/d/1nMfGgOqV1s_OcfU7Cw3GEYB0_d-eewmI/view?usp=sharing)
+- I am working  at Abubakar Tatari Ali Polytecnic,Bauchi, resuming my PhD studies here at UTM. 
 
-## Education and Training 🎓
+## Education 🎓
 
-- Bachelor of Science in Software Engineering (Hons.) at Makerere University (2018 - 2023)
-- Certificate of Accomplishment in the Blockchain Innovation Program, Uganda (2022 - 2023). Also emerged as the overall best student in the cohort.
+- Bachelor of Technology in Information Technology (Hons.) @ Abubakar Tafawa Balewa Yuniversiry,bauchi (2007 - 2012)
+- MSc in information Technology (2017- 2019). 
 
 ## Blog 📝
 
-I regularly write articles on my blog about various topics related to software engineering, blockchain, and more. Here are some of my recent posts:
-
-- [Accessing SSH When Port 22 is Blocked: Solutions and Recommendations](https://blog.bakungabronson.com/ssh-unblock)
+I am intresting in  writing articles on various topics related to I T and Computer Science:
 
 ## Contact Me 📫
 
 If you want to get in touch with me, you can reach me through any of the following channels:
 
-- Email: bakungabro@gmail.com ✉️
+- Email: abdulazizyalwaa@gmail.com ✉️
 - LinkedIn: [Bakunga Bronson](https://www.linkedin.com/in/bronson-bakunga-682a581ba/) 💼
 - GitHub: [BakungaBronson](https://github.com/BakungaBronson) 🐱
 
