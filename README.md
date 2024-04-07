@@ -25,25 +25,13 @@ Hi, I'm Abdulaziz , a passionate Computer Scientist froom Nigeria. I love learni
 - Cloud services: Oracle Cloud
 - Other tools: Git, Docker, LXD
 
-## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
-
-Here are some of the projects that I have worked on or contributed to:
-
-### Beep 🔋
-
-Beep is a simple Python GUI application that helps a user limit the number of charge-cycles they use, thereby increasing the lifespan of the laptop battery. The theory behind this is that a laptop battery has a number of predefined charge-cycles, and every time we charge a battery to 100%, we lose one cycle. For this reason, manufacturers recommend that you shouldn't charge your battery to 100% all the time. The charge percentage is, however, hard to keep track of; therefore, Beep notifies you when your battery reaches a certain threshold (80%).
-
-[Check out Beep on GitHub](https://github.com/OSCA-Kampala-Chapter/Beep)
-
 ## Work Experience 💼
 
 - I am working  with Abubakar Tatari Ali Polytechnic, Bauchi as a lecturer in computer science Department.
 
 ## Education 🎓
-
 - Bachelor of Technology in Information Technology (Hons.) @ Abubakar Tafawa Balewa Yuniversiry,bauchi (2007 - 2012)
 - MSc in information Technology (2017- 2019). 
-
 ## Blog 📝
 
 I am intresting in  writing articles on various topics related to I T and Computer Science:
