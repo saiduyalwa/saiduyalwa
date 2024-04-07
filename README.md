@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A passionate system aaaanalyst from Nigeria</h3>
-
 - 🔭 I’m currently working in ATAP **Nig**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -30,7 +28,7 @@ I am intresting in  writing articles on various topics related to I T and Comput
 ## Contact Me 📫
 If you want to get in touch with me, you can reach me through any of the following channels:
 - Email: abdulazizyalwaa@gmail.com ✉️
-- LinkedIn: [Abdulaziz Saidu Yalwa](https://https://www.linkedin.com/in/abdulaziz-yalwa-18a655154/) 💼
-- GitHub: [saiduyalwa]([https://github.com/BakungaBronson](https://github.com/saiduyalwa) 🐱 
+- LinkedIn: [Abdulaziz Saidu Yalwa](https://https://www.linkedin.com/in/abdulaziz-yalwa) 💼
+- GitHub: [saiduyalwa](https://github.com/saiduyalwa) 🐱 
 
 
