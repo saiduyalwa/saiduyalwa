@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate system aaaanalyst from Nigeria</h3>
 
 - 🔭 I’m currently working in ATAP **Nig**
 
@@ -37,7 +37,7 @@ Beep is a simple Python GUI application that helps a user limit the number of ch
 
 ## Work Experience 💼
 
-- I am working  at Abubakar Tatari Ali Polytecnic,Bauchi, resuming my PhD studies here at UTM. 
+- I am working  with Abubakar Tatari Ali Polytechnic, Bauchi as a lecturer in computer science department. Resuming my PhD studies here at UTM. 
 
 ## Education 🎓
 
