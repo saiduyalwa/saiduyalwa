@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ABDULAZIZ</h1>
-<h3 align="center">A passionate frontend developer from NIIGERIA</h3>
+<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working in ATAP **OFFICE INF SYS**
+- 🔭 I’m currently working in ATAP **Nig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
