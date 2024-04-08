@@ -29,6 +29,6 @@ I am intresting in  writing articles on various topics related to I T and Comput
 If you want to get in touch with me, you can reach me through any of the following channels:
 - Email: abdulazizyalwaa@gmail.com ✉️
 - LinkedIn: [Abdulaziz Saidu Yalwa](https://https://www.linkedin.com/in/abdulaziz-yalwa) 💼
-- GitHub: [saiduyalwa](https://github.com/saiduyalwa) 🐱 
+- GitHub: [saidu yalwa](https://github.com/saiduyalwa) 🐱 
 
 
