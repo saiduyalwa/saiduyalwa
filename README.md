@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A passionate system aaaanalyst from Nigeria</h3>
+<h3 align="center">A passionate system Analyst from Nigeria</h3>
 - 🔭 I’m currently working in ATAP **Nig**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
