@@ -12,10 +12,7 @@
 ## About Me 🚀
 Hi, I'm Abdulaziz , a passionate Computer Scientist froom Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in DBMS and Atificial Intelligent AI.I Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia UTM. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
 ## Skills 🛠️
-- Programming languages: Python, JavaScript, PHP, C, Rust (Learning)
-- Web frameworks: React, Astro, Frappe
-- Cloud services: Oracle Cloud
-- Other tools: Git, Docker, LXD
+- Programming language: Python
 ## Work Experience 💼
 - I am working  with Abubakar Tatari Ali Polytechnic, Bauchi as a lecturer in computer science Department.
 ## Education 🎓
